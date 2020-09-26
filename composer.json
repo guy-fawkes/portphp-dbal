@@ -1,5 +1,5 @@
 {
-    "name": "portphp/dbal",
+    "name": "guy-fawkes/portphp-dbal",
     "description": "Doctrine DBAL adapter for Port",
     "license": "MIT",
     "homepage": "https://github.com/portphp",
@@ -11,6 +11,10 @@
         {
             "name": "Markus Bachmann",
             "email": "markus.bachmann@bachi.biz"
+        },
+        {
+            "name": "Dan Kempster",
+            "email": "dev@dankempster.co.uk"
         },
         {
             "name": "Community contributors",
@@ -25,6 +29,9 @@
     "require": {
         "portphp/portphp": "1.2.0",
         "doctrine/dbal": "^2.4"
+    },
+    "replace": {
+        "portphp/dbal": "self.version"
     },
     "autoload": {
         "psr-4": {
