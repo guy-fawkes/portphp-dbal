@@ -1,9 +1,9 @@
-# Port DBAL adapter
+# PortPHP DBAL adapter
 
-[![Latest Version](https://img.shields.io/github/release/portphp/dbal.svg?style=flat-square)](https://github.com/portphp/dbal/releases)
-[![Build Status](https://travis-ci.org/portphp/dbal.svg)](https://travis-ci.org/portphp/dbal)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/dbal/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/dbal/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/portphp/dbal/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/dbal/?branch=master)
+[![Latest Version](https://img.shields.io/github/release/guy-fawkes/portphp-dbal.svg?style=flat-square)](https://github.com/guy-fawkes/portphp-dbal/releases)
+[![Build Status](https://travis-ci.org/guy-fawkes/portphp-dbal.svg)](https://travis-ci.org/guy-fawkes/portphp-dbal)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/guy-fawkes/portphp-dbal/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/guy-fawkes/portphp-dbal/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/guy-fawkes/portphp-dbal/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/guy-fawkes/portphp-dbal/?branch=master)
 
 Doctrine DBAL adapter for [Port](https://github.com/portphp).
 
@@ -13,7 +13,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this package:
 
 ```bash
-$ composer require portphp/dbal
+$ composer require guy-fawkes/portphp-dbal
 ```
 
 This command requires you to have Composer installed globally, as explained
@@ -31,7 +31,7 @@ Please report issues and request features at https://github.com/portphp/portphp/
 ## Contributing
 
 Contributions are very welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
-details. Thanks to [everyone who has contributed](https://github.com/portphp/dbal/graphs/contributors)
+details. Thanks to [everyone who has contributed](https://github.com/guy-fawkes/portphp-dbal/graphs/contributors)
 already.
 
 ## Security
